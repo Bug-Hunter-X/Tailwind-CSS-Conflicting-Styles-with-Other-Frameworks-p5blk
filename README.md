@@ -1,0 +1,1 @@
+This repository demonstrates a bug caused by conflicting styles when using Tailwind CSS alongside another CSS framework. The `bug.css` file shows the conflicting styles, resulting in unexpected component rendering. The `bugSolution.css` file provides a solution to resolve the conflict. This is common when integrating Tailwind into existing projects with pre-existing styling.
